@@ -3,5 +3,4 @@
 settings.json
 config.py
 env/
-output/*
-graphs/*
+output/
